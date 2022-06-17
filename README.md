@@ -1,1 +1,1 @@
-# sannetworkfront
+HTML and CSS project for study frontend tools.
